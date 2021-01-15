@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@cognite/sdk": "^3.3.2"
+  }
+}
